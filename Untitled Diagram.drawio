@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T13:51:44.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Whda6kRPFEK1YhA_8o24" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T18:11:18.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="dCIS_3Y14RJKr8fEmXW_" version="18.0.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="723" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1350" value="Mammal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1350" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Selon moi quel serai un bon&amp;nbsp;pilotage pour ce projet?&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="411.5" y="511.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1351" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;D&#39;où je viens ? &lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Qu&#39;est-ce que m&#39;amène dans ce projet&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Times New Roman;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
@@ -13,16 +13,16 @@
         <mxCell id="1352" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Ou je veux aller?&lt;br&gt;Quelles sont les prin-&lt;br&gt;cipales finalités du&lt;br&gt;projet selon moi&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1699" y="495.5" width="129" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1354" value="Bacteria" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1701" y="1021.5" width="120" height="120" as="geometry" />
+        <mxCell id="1354" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Les passagers avec&amp;nbsp;&lt;br&gt;qui je veux embarquer?&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1641" y="963" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1356" value="Flower" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1356" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Selon moi quels sont&lt;br&gt;les freins et les obstacle du projet?&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="460.5" y="1068.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1357" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Redville&lt;br&gt;L&#39;idée de co-construction&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="930" y="411.5" width="139.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1358" value="Dolphin" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1358" value="" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="236.5" y="656.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;exitX=0.021;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -49,11 +49,6 @@
             <mxPoint x="1644" y="1005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1541" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Texte&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1364">
-          <mxGeometry x="-0.2247" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1366" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="1356" edge="1">
           <mxGeometry x="283" y="197.5" width="100" height="100" as="geometry">
             <mxPoint x="994.9999999999995" y="858.527397260274" as="sourcePoint" />
@@ -61,34 +56,34 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1367" value="Lion" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1367" value="" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="706.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1368" value="Elephant" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="206.5" y="586.5" width="130" height="40" as="geometry" />
+        <mxCell id="1368" value="Assemblé des représentants&lt;br&gt;des acteurs + soutien de&amp;nbsp;&lt;br&gt;chaque orga sur les actions" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="180" y="580" width="156.5" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="1369" value="Cat" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1369" value="Légèreté&lt;br&gt;multi-acteurs" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="206.5" y="511.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1370" value="Giraffe" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="246.5" y="446.5" width="130" height="40" as="geometry" />
+        <mxCell id="1370" value="Agrégateur d&#39;opportunité&lt;br&gt;Observatoire et évaluation d&#39;impacts&lt;br&gt;Vrai partage" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="180" y="440" width="196.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1371" value="Dog" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="296.5" y="386.5" width="130" height="40" as="geometry" />
+        <mxCell id="1371" value="Un lieu d&#39;échange en ligne&lt;br&gt;Prise de décision collective&lt;br&gt;Temps fort IRL&amp;nbsp;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="270" y="386.5" width="156.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1372" value="Donkey" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="376.5" y="326.5" width="130" height="40" as="geometry" />
+        <mxCell id="1372" value="Des temps collectifs régulier&lt;br&gt;Une mise en commune régulière&lt;br&gt;Un lieu qui rassemble" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="360" y="310" width="170" height="56.5" as="geometry" />
         </mxCell>
-        <mxCell id="1373" value="Leopard" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="496.5" y="386.5" width="130" height="40" as="geometry" />
+        <mxCell id="1373" value="Equipe&lt;br&gt;Multi asso&lt;br&gt;Territoire(moyen)&lt;br&gt;Politique (orientation)&lt;br&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="496.5" y="370" width="130" height="56.5" as="geometry" />
         </mxCell>
-        <mxCell id="1374" value="Horse" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1374" value="Gouvernance partagée" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="551.5" y="446.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1375" value="Zebra" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1375" value="Objectifs&lt;br&gt;Les impacts&lt;br&gt;indicateurs" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="586.5" y="506.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1376" value="Gazelle" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1376" value="Motivation" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="601.5" y="586.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1377" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" target="1376" edge="1">
@@ -370,25 +365,25 @@
             <mxPoint x="131" y="245.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1457" value="Streptococcus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1636" y="937" width="120" height="40" as="geometry" />
+        <mxCell id="1457" value="Les bonnes volontés" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1813" y="850" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1458" value="Echericia Colli" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1621" y="1151.5" width="120" height="40" as="geometry" />
+        <mxCell id="1458" value="Elus, citoyens, élargissement &lt;br&gt;du public, entreprise?(orga&lt;br&gt;syndicales, grand défis" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="1156" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1459" value="Lactobacyllus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1791" y="964" width="120" height="40" as="geometry" />
+        <mxCell id="1459" value="Humains préoccupés et&amp;nbsp;&lt;br&gt;occupés par l&#39;avenir, construire&lt;br&gt;un monde/Nantes soutenable" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="963.5" width="170" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="1460" value="Helicobacter" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1898" y="1096" width="120" height="40" as="geometry" />
+        <mxCell id="1460" value="Avec des organisations et des&amp;nbsp;&lt;br&gt;citoyens qui ont envie d&#39;agir au&lt;br&gt;niveau local, de construire d&#39;élu&lt;br&gt;dans une démarche positive" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1893" y="1033.5" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1461" value="Bifidobacterium" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1811" y="1181.5" width="120" height="40" as="geometry" />
+        <mxCell id="1461" value="Toutes Asso partageant les&lt;br&gt;mêmes objectifs&amp;nbsp;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1823" y="1123" width="157" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1462" value="Staphyllococcus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1544" y="1051.5" width="120" height="40" as="geometry" />
+        <mxCell id="1462" value="Collectivités, habitants&lt;br&gt;membres d&#39;asso&lt;br&gt;diverse" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1491" y="1138.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1463" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" edge="1">
+        <mxCell id="1463" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" edge="1" target="1460">
           <mxGeometry x="241" y="-253.5" width="100" height="100" as="geometry">
             <mxPoint x="241" y="-153.5" as="sourcePoint" />
             <mxPoint x="1891" y="1069.5263157894738" as="targetPoint" />
@@ -400,13 +395,13 @@
             <mxPoint x="341" y="-253.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1465" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1458" edge="1">
+        <mxCell id="1465" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1354" target="1458" edge="1">
           <mxGeometry x="241" y="-253.5" width="100" height="100" as="geometry">
             <mxPoint x="241" y="-153.5" as="sourcePoint" />
             <mxPoint x="341" y="-253.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1466" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" edge="1">
+        <mxCell id="1466" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" edge="1" target="1462">
           <mxGeometry x="241" y="-253.5" width="100" height="100" as="geometry">
             <mxPoint x="241" y="-153.5" as="sourcePoint" />
             <mxPoint x="1661" y="1081.5" as="targetPoint" />
@@ -418,41 +413,41 @@
             <mxPoint x="341" y="-253.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1490" value="Philadendron" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="510.5" y="898.5" width="120" height="40" as="geometry" />
+        <mxCell id="1490" value="" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="520" y="903.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1491" value="Dahlia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="375.5" y="903.5" width="120" height="40" as="geometry" />
+        <mxCell id="1491" value="" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="376.5" y="903.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1492" value="Petunia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="325.5" y="963.5" width="120" height="40" as="geometry" />
+        <mxCell id="1492" value="Inaction politique institution&lt;br&gt;Manque de temps et d&#39;Energie&lt;br&gt;des collectifs&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="963.5" width="165.5" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="1493" value="Cactus" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="270.5" y="1023.5" width="120" height="40" as="geometry" />
+        <mxCell id="1493" value="Business&lt;br&gt;L&#39;Ignorance&lt;br&gt;L&#39;Indifférence" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="270.5" y="1021.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1494" value="Tulip" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1494" value="Volonté d&#39;évolution&amp;nbsp;&lt;br&gt;Changer ces habitudes" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="250.5" y="1078.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1495" value="Lilac" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="265.5" y="1143.5" width="120" height="40" as="geometry" />
+        <mxCell id="1495" value="Trop de tête de pont et&lt;br&gt;trop de temps passé à&lt;br&gt;suivre qui le fait le mieux&lt;br&gt;pas de sous" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="250" y="1130" width="135.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1496" value="Dandelion" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1496" value="Pas d&#39;engagement&amp;nbsp;&lt;br&gt;Pas d&#39;unité" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="300.5" y="1206" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1497" value="Poppy" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1497" value="Financement&lt;br&gt;Epuisement militants" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="370.5" y="1256" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1498" value="Gerbera" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="480.5" y="1311" width="120" height="40" as="geometry" />
+        <mxCell id="1498" value="Accès aux données/moyens&lt;br&gt;sortir du cercle des engagés&lt;br&gt;/convaincre, Intérêt divergent" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="480.5" y="1311" width="159.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1499" value="Orchid" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1499" value="Le temps de chacun&lt;br&gt;Les intérêts individuels" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="605.5" y="1246" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1500" value="Gladiola" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1500" value="Temps/Échéance&lt;br&gt;différentes ambitions&lt;br&gt;Le flou/ L&#39;exp" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="665.5" y="1178.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1501" value="Rose" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="685.5" y="1083" width="120" height="40" as="geometry" />
+        <mxCell id="1501" value="La complexité du dispositif&lt;br&gt;diversité des acteurs&lt;br&gt;dispersion de l&#39;information&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="685.5" y="1083" width="154.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="1502" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1501" edge="1">
           <mxGeometry x="90.5" y="-51.5" width="100" height="100" as="geometry">
@@ -460,13 +455,13 @@
             <mxPoint x="190.5" y="-51.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1503" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" edge="1">
+        <mxCell id="1503" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.67;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1356" edge="1" target="1490">
           <mxGeometry x="90.5" y="-51.5" width="100" height="100" as="geometry">
             <mxPoint x="90.5" y="48.5" as="sourcePoint" />
             <mxPoint x="579.1585365853653" y="943.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1504" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" edge="1">
+        <mxCell id="1504" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" edge="1" target="1491">
           <mxGeometry x="90.5" y="-51.5" width="100" height="100" as="geometry">
             <mxPoint x="90.5" y="48.5" as="sourcePoint" />
             <mxPoint x="457.50000000000045" y="948.5" as="targetPoint" />
@@ -538,43 +533,43 @@
         <mxCell id="HgUclgAVwhv4iRQHbnZD-1551" value="Flower" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1119" y="1290" width="120" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1552" value="Philadendron" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1255" y="1189" width="120" height="40" as="geometry" />
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1552" value="Connaissance des enjeux&lt;br&gt;bénéfice de l&#39;action collective" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1246.5" y="1201" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1553" value="Dahlia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1149" y="1508" width="120" height="40" as="geometry" />
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1553" value="Envie, partage, échange&lt;br&gt;Un socle commun et&lt;br&gt;clair" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1508" width="131" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1554" value="Petunia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1554" value="- Rassemblement&amp;nbsp;&lt;br&gt;- Co-construction" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="984" y="1191" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1555" value="Cactus" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1555" value="Le collectif" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="929" y="1251" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1556" value="Tulip" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="913" y="1314" width="120" height="40" as="geometry" />
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1556" value="La connaissance public&lt;br&gt;la crédibilité&lt;br&gt;Etre utile aux alternatives" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="896" y="1310" width="133" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1557" value="Lilac" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1557" value="Intelligence collective&lt;br&gt;agir sans perdre le&lt;br&gt;sens des actions" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="924" y="1371" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1558" value="Dandelion" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1558" value="Collectif = Force&lt;br&gt;Baromètre = visibilité" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="959" y="1433.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1559" value="Poppy" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1559" value="Les sous&lt;br&gt;l&#39;Energie&amp;nbsp;&lt;br&gt;les autres" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1029" y="1483.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1560" value="Orchid" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1264" y="1473.5" width="120" height="40" as="geometry" />
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1560" value="La rencontre et les idéaux&lt;br&gt;communs, l&#39;urgence&lt;br&gt;la vision systémique&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1266" y="1464.5" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1561" value="Gladiola" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1561" value="jouer collectif&lt;br&gt;nombreux&lt;br&gt;forts" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1324" y="1406" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1562" value="Rose" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1344" y="1310.5" width="120" height="40" as="geometry" />
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1562" value="Conviction envie d&#39;agir&lt;br&gt;Un objectif commun&lt;br&gt;collectif égo de coté" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1344" y="1300" width="136" height="50.5" as="geometry" />
         </mxCell>
-        <mxCell id="HgUclgAVwhv4iRQHbnZD-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="HgUclgAVwhv4iRQHbnZD-1551" target="HgUclgAVwhv4iRQHbnZD-1562" edge="1">
-          <mxGeometry x="749" y="176" width="100" height="100" as="geometry">
-            <mxPoint x="749" y="276" as="sourcePoint" />
-            <mxPoint x="849" y="176" as="targetPoint" />
+        <mxCell id="HgUclgAVwhv4iRQHbnZD-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" edge="1">
+          <mxGeometry x="749" y="174" width="100" height="100" as="geometry">
+            <mxPoint x="1238.7451443476493" y="1345.199500548772" as="sourcePoint" />
+            <mxPoint x="1344" y="1334.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HgUclgAVwhv4iRQHbnZD-1566" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="HgUclgAVwhv4iRQHbnZD-1551" target="HgUclgAVwhv4iRQHbnZD-1554" edge="1">
@@ -639,6 +634,52 @@
         </mxCell>
         <mxCell id="HgUclgAVwhv4iRQHbnZD-1577" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/monorail_metro_transport_transportation_train_monochrome_car-128.png;fontFamily=Times New Roman;fontSize=12;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="920" y="573.5" width="448" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1542" value="Militants, Elu.e.s, habitants" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1889.54" y="900" width="170" height="33.56" as="geometry" />
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1543" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;exitX=0.946;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-1176.46" y="-637.94" width="100" height="100" as="geometry">
+            <mxPoint x="1752.52" y="993.96" as="sourcePoint" />
+            <mxPoint x="1913.5040507789959" y="930.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1544" value="Le + possible avec bcp de diversité&lt;br&gt;importance d&#39;une envie commune&lt;br&gt;Citoyens/asso/orga/collectivité" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="870" width="190" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1545" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" target="3sQC1bS-omg2uHEPQ_kN-1544">
+          <mxGeometry x="-1385.46" y="-647" width="100" height="100" as="geometry">
+            <mxPoint x="1695" y="964" as="sourcePoint" />
+            <mxPoint x="1695" y="903.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1695" y="905" />
+              <mxPoint x="1695" y="914" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1546" value="De belles personnes pour un beau&lt;br&gt;voyage" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="1078.5" width="190" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1547" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="3sQC1bS-omg2uHEPQ_kN-1546">
+          <mxGeometry x="-1421.71" y="-527.5" width="100" height="100" as="geometry">
+            <mxPoint x="1550" y="1070" as="sourcePoint" />
+            <mxPoint x="1642.29" y="1029.4657911340141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1548" value="collectif pour la justice climatique&amp;nbsp;&lt;br&gt;et sociale (habitants, elu.e.s,&lt;br&gt;entreprise)" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="990" width="181" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1549" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" target="3sQC1bS-omg2uHEPQ_kN-1548" source="1354">
+          <mxGeometry x="-1144" y="-518.5" width="100" height="100" as="geometry">
+            <mxPoint x="1800.4565520996684" y="1054.9428036874283" as="sourcePoint" />
+            <mxPoint x="-1044" y="-518.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sQC1bS-omg2uHEPQ_kN-1551" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.468;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HgUclgAVwhv4iRQHbnZD-1551" target="HgUclgAVwhv4iRQHbnZD-1552">
+          <mxGeometry x="729" y="79.8" width="100" height="100" as="geometry">
+            <mxPoint x="1218.7451443476493" y="1250.999500548772" as="sourcePoint" />
+            <mxPoint x="1324" y="1240.3" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
